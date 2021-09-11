@@ -42,7 +42,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados**
 
-Transforme a su forma polar
+Transforme a su forma polar:
+
 ![calcu_1](https://user-images.githubusercontent.com/84586968/132929017-ec67ea6d-12d8-4c66-9be6-968ca8f4d532.PNG)
 
 ![calcu_2](https://user-images.githubusercontent.com/84586968/132929019-626275b7-9a84-4bf1-bef9-097a8bd2a09a.PNG)
