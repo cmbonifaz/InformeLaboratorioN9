@@ -24,7 +24,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 4. PROCEDIMIENTO
 
-**4.1 Transforme a su forma polar:**
+##### 4.1 Transforme a su forma polar: 
 
 ![transformepolar](https://user-images.githubusercontent.com/84586968/132929001-b42660e0-aa4a-453b-b4c3-6eaac647c13f.PNG)
 
