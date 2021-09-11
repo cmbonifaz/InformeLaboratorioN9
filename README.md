@@ -12,13 +12,16 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS
 
+- Realizar operaciones aritméticas con números complejos, tanto en su forma polar 
+  como rectangular.
+
 #### 2. MARCO TEÓRICO
 
 #### 3. MATERIALES
 
 #### 4. PROCEDIMIENTO
 
-#### 5. ANALISIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
+
 
 #### 6. VIDEO
 
