@@ -14,6 +14,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 - Realizar operaciones aritméticas con números complejos, tanto en su forma polar 
   como rectangular.
+  
+- Los fasores se utilizan directamente en óptica, ingeniería de telecomunicaciones y acústica. La longitud del fasor da la amplitud y el ángulo entre el mismo y el eje-x la fase angular, en electrónica los fasores se utilizan habitualmente en el análisis rudimentario de circuitos en corriente alterna.
 
 #### 2. MARCO TEÓRICO
 
@@ -64,5 +66,8 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 #### 6. VIDEO
 
 #### 7. CONCLUSIONES
+
+- En este breve informe se trata de dar una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica ya que de estos ejercicio podemos plantearlos de forma más simple para así conseguir el resultado.
+
 
 #### 8. BIBLIOGRAFÍA
