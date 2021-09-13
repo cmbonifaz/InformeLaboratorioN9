@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** 
+**Tema:** FASORES
 
 #### 1. OBJETIVOS
 
