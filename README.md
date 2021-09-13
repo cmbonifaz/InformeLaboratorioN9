@@ -71,3 +71,6 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 
 #### 8. BIBLIOGRAFÍA
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
