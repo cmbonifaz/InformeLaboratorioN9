@@ -66,6 +66,8 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 #### 6. VIDEO
 
+[Simulación de Circuito - Laboratorio N°9](https://youtu.be/DwksKI96H8s "Simulación de Circuito - Laboratorio N°9")
+
 #### 7. CONCLUSIONES
 
 - En este breve informe se trata de dar una pequeña introducción al uso de fasores, en problemas relacionados con la electricidad y la electrónica ya que de estos ejercicio podemos plantearlos de forma más simple para así conseguir el resultado.
