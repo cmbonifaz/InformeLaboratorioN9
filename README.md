@@ -74,6 +74,8 @@ Realice las siguientes operaciones paso a paso, y represente el resultado tanto 
 
 - Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
+- Se concluye que se necesita un manejo fluido de los fasores por que es basico para le estudio de circuitos de ahora en adelante  
+
 #### 8. BIBLIOGRAFÍA
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
